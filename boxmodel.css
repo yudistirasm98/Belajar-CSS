@@ -9,7 +9,7 @@ div
 }
 .inblock
 {
-    display: inline-block;
+    display: block;
     background-color: rgb(134, 65, 65);
 
 }
